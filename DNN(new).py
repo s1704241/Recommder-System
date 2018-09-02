@@ -15,7 +15,6 @@ from sklearn.decomposition import PCA
 from sklearn.preprocessing import scale
 from sklearn.metrics import silhouette_score  
 
-np.random.seed(7)
 
 
 #s = pd.read_csv('data\\sushi3b.5000.10.score',  sep=' ', header=None, encoding='utf8')
