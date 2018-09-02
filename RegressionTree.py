@@ -27,7 +27,7 @@ from sklearn.tree import export_graphviz
 
 
 
-np.random.seed(7)
+
 
 data = "sushi"
 #data = "movielens"
